@@ -31,6 +31,24 @@ $RECYCLE.BIN/
 # Thumbnails
 ._*
 
+# User Defined
+/Library/
+/ProjectSettings
+Assets/images
+Assets/Prefabs
+Assets/Animations
+Assets/_Scenes
+Assets/Sounds
+Assets/AEgis_Technologies
+Assets/Downloaded Assets
+Assets/Editor
+Assets/FreeCharacter
+Assets/Standard Assets
+Assets/START PACK
+Assets/Zombie
+
+
+
 # Files that might appear in the root of a volume
 .DocumentRevisions-V100
 .fseventsd

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie Runner.CSharp.Plugins", "Zombie Runner.CSharp.Plugins.csproj", "{90471BD0-83AB-5369-DA20-CDCD07DB85F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie Runner.CSharp", "Zombie Runner.CSharp.csproj", "{63D86035-43B3-D41A-0FCA-93C148D30435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie Runner.CSharp.Editor", "Zombie Runner.CSharp.Editor.csproj", "{DE90136E-00BD-9FA8-4FEC-D93B59874DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90471BD0-83AB-5369-DA20-CDCD07DB85F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90471BD0-83AB-5369-DA20-CDCD07DB85F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90471BD0-83AB-5369-DA20-CDCD07DB85F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90471BD0-83AB-5369-DA20-CDCD07DB85F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63D86035-43B3-D41A-0FCA-93C148D30435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D86035-43B3-D41A-0FCA-93C148D30435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D86035-43B3-D41A-0FCA-93C148D30435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D86035-43B3-D41A-0FCA-93C148D30435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE90136E-00BD-9FA8-4FEC-D93B59874DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE90136E-00BD-9FA8-4FEC-D93B59874DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE90136E-00BD-9FA8-4FEC-D93B59874DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE90136E-00BD-9FA8-4FEC-D93B59874DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
